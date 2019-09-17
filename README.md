@@ -1,4 +1,4 @@
-# Playground
+# Teddy
 
 A place to play with `git`.
 
