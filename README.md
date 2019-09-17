@@ -1,4 +1,4 @@
-# Teddy
+# Dianne
 
 A place to play with `git`.
 
