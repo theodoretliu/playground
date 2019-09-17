@@ -1,4 +1,4 @@
-# Teddy
+# Teddy and Dianne messed up
 
 A place to play with `git`.
 
